@@ -1,16 +1,61 @@
-## Hi there 👋
+## 👋 Olá, eu sou o Dylan Marins!
 
-<!--
-**Dylan-Marinss/Dylan-Marinss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** – 2º módulo  
+💻 Apaixonado por tecnologia, programação e resolver problemas com código  
+🔁 Sempre aprendendo algo novo e colocando em prática por meio de projetos  
+🎯 Focado em construir uma base sólida em **lógica de programação**, **front-end**, e **back-end**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Sobre mim
+
+- 👨‍💻 Iniciando minha jornada como desenvolvedor
+- 🧠 Curioso por linguagens de programação, APIs e boas práticas de código
+- 🛠️ Trabalhando em projetos que consolidam meu aprendizado
+- 📚 Explorando tecnologias como Git, C#, JavaScript, Java, HTML e CSS
+- ✨ Buscando minha primeira oportunidade na área de tecnologia
+
+---
+
+### 🚀 Tecnologias que estou aprendendo
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+</p>
+
+---
+
+### 🎯 Objetivos atuais
+
+- ✅ Concluir o curso com um bom portfólio
+- ✅ Aprender estrutura de dados e algoritmos
+- ✅ Desenvolver um projeto pessoal completo, do front ao back
+
+---
+
+### 📬 Onde me encontrar
+
+- 📧 **Email:** [dylanmarins24@gmail.com](mailto:dylanmarins24@gmail.com)
+- 💼 **LinkedIn:** _adicione aqui o link se quiser_
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dylanmarins&show_icons=true&theme=gotham&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dylanmarins&layout=compact&theme=gotham"/>
+</p>
+
+---
+
+### 💡 Curiosidade
+
+> "A melhor forma de aprender é construindo. Cada erro é um passo a mais rumo à evolução."
+
+---
+
+
