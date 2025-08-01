@@ -43,13 +43,6 @@
 - 💼 **LinkedIn:** _adicione aqui o link se quiser_
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dylanmarins&show_icons=true&theme=gotham&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dylanmarins&layout=compact&theme=gotham"/>
-</p>
-
 ---
 
 ### 💡 Curiosidade
