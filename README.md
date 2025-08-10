@@ -34,8 +34,6 @@
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Dylan-Marinss&show_icons=true&theme=gotham&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dylan-Marinss&layout=compact&theme=gotham"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dylan-Marinss&layout=compact&theme=gotham"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dylan-Marinss&layout=compact&theme=gotham"/>
 </p>
 
 ### 🎯 Objetivos atuais
