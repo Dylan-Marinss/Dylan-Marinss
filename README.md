@@ -28,7 +28,7 @@
 ### 📬 Onde me encontrar
 
 - 📧 **Email:** [dylanmarins24@gmail.com](mailto:dylanmarins24@gmail.com)
-- 💼 **LinkedIn:**[(https://www.linkedin.com/in/allinymarins?utm_source=share_via&utm_content=profile&utm_medium=member_android)]
+- 💼 **LinkedIn:**[https://www.linkedin.com/in/allinymarins?utm_source=share_via&utm_content=profile&utm_medium=member_android](mailto:LinkedIn)
 ---
 
 
