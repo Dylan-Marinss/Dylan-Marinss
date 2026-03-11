@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou o Dylan Marins!
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** – 2º módulo  
+🎓 Estudante de **Técnico de Desenvolvimento de Sistemas** – 3º módulo  
 🎯 Focado em construir uma base sólida em **lógica de programação**, **front-end**, e **back-end**
 
 ---
@@ -13,6 +13,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
 </p>
 
 ---
