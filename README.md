@@ -28,8 +28,10 @@
 
 ### 📬 Onde me encontrar
 
-- 📧 **Email:** [dylanmarins24@gmail.com](mailto:dylanmarins24@gmail.com)
-- 💼 **LinkedIn:**[https://www.linkedin.com/in/allinymarins?utm_source=share_via&utm_content=profile&utm_medium=member_android](mailto:LinkedIn)
+[![E-mail](https://img.shields.io/badge/Email-seu%40email.com-blue?style=for-the-badge&logo=gmail)](mailto:dylanmarins24@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/allinymarins?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+
 ---
 
 
