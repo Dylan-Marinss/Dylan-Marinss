@@ -31,9 +31,9 @@ Focado em construir uma base sólida em **lógica de programação, front-end** 
 
 <div align="left">
   <a href="mailto:dylanmarins24@gmail.com">
-    <img src="https://img.shields.io/badge/Email-seu%40email.com-blue?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/logo=gmail&logoColor=Blue" />
   </a>
   <a href="https://www.linkedin.com/in/allinymarins?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue" />
   </a>
 </div>
