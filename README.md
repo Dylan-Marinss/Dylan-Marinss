@@ -29,11 +29,4 @@ Focado em construir uma base sólida em **lógica de programação, front-end** 
 
 ### 📫 Onde me encontrar
 
-<div align="left">
-  <a href="mailto:dylanmarins24@gmail.com">
-    <img src="https://img.shields.io/badge/logo=gmail&logoColor=Blue" />
-  </a>
-  <a href="https://www.linkedin.com/in/allinymarins?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue" />
-  </a>
-</div>
+[**LINKEDIN**](https://www.linkedin.com/in/allinymarins?utm_source=share_via&utm_content=profile&utm_medium=member_android)    [**GMAIL**](mailto:dylanmarins24@gmail.com)
